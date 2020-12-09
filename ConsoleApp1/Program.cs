@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Visual Studio World!");
+            Console.WriteLine("リモートリポジトリで変更した場所");
         }
     }
 }
